@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: top-populyarnye-kazino.github.io
+Sitemap: https://top-populyarnye-kazino.github.io/sitemap.xml
